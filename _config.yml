@@ -1,0 +1,14 @@
+layout_spectrum: 0.6759883828926831
+typography_spectrum: 0.11672589555382729
+color:
+  brandStrength: 0.5480178026482463
+  lightness: 0.54693782213144
+  saturation: 0.4074857924133539
+  rhythmicContrast: 0.8472503612283617
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: distractasaurus
